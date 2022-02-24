@@ -10,10 +10,12 @@ body {
 }
 #nome {
     color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h2 {
     color: aliceblue;
     font-size: 25px;
+    font-family: monospace;
 }
 ul {
     background-color: aliceblue;
@@ -24,4 +26,17 @@ li {
 }
 p {
     color: aliceblue;
+}
+
+.etica {
+    font-size: 29px;
+}
+.autocon {
+    font-size: 30px;
+}
+.resiliencia {
+    font-size: 35px;
+}
+#foto {
+    border-radius: 65px;
 }
